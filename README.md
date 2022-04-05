@@ -2,10 +2,7 @@
 
 This is the first file in this repo.
 
-## Ipsum Below
+## Website contents
 
-Tattooed banh mi\
-
-
-###
+1. Index
 
